@@ -1,0 +1,3 @@
+SELECT 
+'123-456-7890' AS PHONE,
+REPLACE('123-456-7890', '-', '/') AS clean_phone
