@@ -25,3 +25,5 @@ I have been learning for past few days. SQL stands for Structured Query Language
 
 ### 8. CASE:
     In SQL, CASE is just like the if in other languages, it handles the conditionals in here.
+
+I have been following these resources: https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe
