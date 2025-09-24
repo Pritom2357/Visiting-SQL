@@ -1,0 +1,5 @@
+-- Tip 26: Avoid overindexing
+-- Tip 27: Monitor the usage of indexes
+-- Tip 28: Update Statistics
+-- Tip 29: Reorganize & Rebuild Indexes
+-- Tip 30: Partition Large tables

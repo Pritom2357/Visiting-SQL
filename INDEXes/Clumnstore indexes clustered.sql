@@ -1,0 +1,1 @@
+-- CREATE NONCLUSTERED COLUMNSTORE INDEX idx_DCustomers_CS_FirstName ON Sales.DBCustomer(FirstName)

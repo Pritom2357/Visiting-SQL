@@ -1,0 +1,1 @@
+DROP VIEW v_monthly_summary
