@@ -13,6 +13,8 @@ The goal: a **practical, example-driven knowledge base** you can open in SSMS or
 It’s not meant to be “perfect docs,” more like a **hands-on playground** where every folder tells a story: concept → experiments → key lessons.
 
 ---
+## Main Datasets:
+In `datasets\` folder.
 
 ## Table of Contents (Concept Groups)
 
